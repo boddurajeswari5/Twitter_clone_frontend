@@ -259,4 +259,11 @@
   .hide-on-small-screen {
     display: none;
   }
+  .posts {
+    width: 75%;
+    margin-left: 25%;
+  }
+  .posts__home {
+    width: 75%;
+  }
 }
